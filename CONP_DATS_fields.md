@@ -50,8 +50,3 @@ We use the `DATS.json` file format to store metadata describing CONP datasets.  
 |Spatial Coverage|spatialCoverage|**OPTIONAL**| The geographical extension and span covered by the dataset.|The geographical extension and span covered by the dataset.|
 
 The DATS dataset schema can be found [here](https://github.com/CONP-PCNO/schema/blob/master/dataset_schema.json), and the `DATS.json` file from the visual-working-memory dataset [here](https://github.com/conpdatasets/ds001634/blob/master/DATS.json) can be used as a template. A graphic interface allowing users to fill in fields online is under development [here](https://dats-creator.herokuapp.com/).
-
-
-
-
-
